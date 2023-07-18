@@ -1,0 +1,5 @@
+Apple, AAPL.csv
+IBM, IBM.csv
+Microsoft, MSFT.csv
+Motorola, MSI.csv
+Texas Instruments, TXN.csv
